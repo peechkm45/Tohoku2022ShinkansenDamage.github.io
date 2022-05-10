@@ -1,0 +1,14 @@
+Name,RefName,NumberOfDamagedElement,Laditude,Longtitude,DamagedMember1,DamageType1,DamagedPic1,DamageComment1,RestorationMethod1,RestoredPic1,RestorationMethodComment1,DamagedMember2,DamageType2,DamagedPic2,RestoredPic2,DamagedMember3,DamageType3,DamagedPic3,RestoredPic3,DamagedMember4,DamageType4,DamagedPic4,RestoredPic4,Ref
+Epicenter,2022/03/16 福島県沖地震,,37.73,141.595,,,,,,,,,,,,,,,,-,-,-,-,https://en.wikipedia.org/wiki/2022_Fukushima_earthquake
+Viaduct RC structure 1,JR常磐線(JR坂元駅付近),2,37.923333,140.901383,Column 1 (Bottom),?Horizontal cracks,S1-3.png,/TBA,/TBA,TBU.png,/TBA,Column 1 (Top),?Cracks between rivets,S1-2.png,TBU.png,-,-,-,-,-,-,-,-,https://goo.gl/maps/YkFnj5LxGxsiuaic7
+Viaduct RC structure 2,齋川BV (新幹線脱線箇所南側),3,37.96850426,140.6091361,Column 1 (Bottom),Moment failure,S2-3.png,/TBA,/TBA,TBU.png,/TBA,Column 1 (Top),Moment failure,S2-2.png,TBU.png,Column 2 (Bottom),Moment failure,S2-4.png,TBU.png,-,-,-,-,https://goo.gl/maps/iYH4YrybxxDWHqou7
+Viaduct RC structure 3,大平BL (新幹線脱線箇所南側),1,37.975858,140.616712,Column 1 (Middle),Moment failure (Rebar reduction),S3-1.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/iCJaESHCotGksLWW6
+Viaduct RC structure 4,伊達駅周辺,1,37.831778,140.499028,Column 1 (Top),Moment failure,S4-2.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/CPjYmefFEmGwVYtF9
+Viaduct RC structure 5,第１小坂街道BV（国見インター付近） ,2,37.878778,140.535333,Column 1 (Bottom),Moment failure,S5-2.png,/TBA,/TBA,TBU.png,/TBA,Overall structure,Tilting,S5-1.png,TBU.png,-,-,-,-,-,-,-,-,https://goo.gl/maps/YFkC585dficvZekp6
+Viaduct RC structure 6,大平BL (新幹線脱線箇所付近),1,37.9853955,140.6260182,Column 1 (Top),Moment failure,S6-2.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/bMnepny5LgJJ2cCR8
+Viaduct RC structure 7,齋川BV (新幹線脱線箇所南側),1,37.97013909,140.6123505,Middle-layered beam,Shear failure,S7-2.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/7jMcf5ub9P52i7zC6
+Viaduct RC structure 8,日和田BL (福島県郡山市),1,37.441861,140.402861,Middle-layered beam,Shear failure,S8.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/s5fzAaavLNWJtDP76
+Viaduct RC structure 9,伊達BL (伊達駅周辺),1,-,-,Middle-layered beam,Shear failure,S9.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,N/A
+Viaduct RC structure 10,大平BL (新幹線脱線箇所付近),1,37.977286,140.617845,Middle-layered beam,Shear failure,S10.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/DfXebDqLZdjz4zUQ6
+Viaduct RC structure 11,平石BL (福島駅周辺),1,37.715583,140.453917,Middle-layered beam,Shear failure,S11-1.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,?? https://goo.gl/maps/DBsg5NfSsev35Bm28
+Viaduct RC structure 12,新白石BL (白石蔵王駅付近),1,37.992056,140.630167,Middle-layered beam,Shear failure,S12.png,/TBA,/TBA,TBU.png,/TBA,-,-,-,-,-,-,-,-,-,-,-,-,https://goo.gl/maps/YKuU35aP6F3LoRU38
